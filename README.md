@@ -1,3 +1,5 @@
-### Live Demo
+### How To Run The Project
 
-Link: https://mern-tinder-clone-fda4a.firebaseapp.com/
+1. In the terminal, type 'npm start'.
+2. Open another terminal, type 'cd backend' then type 'nodemon server'.
+3. Then only you can see the tinder cards.
